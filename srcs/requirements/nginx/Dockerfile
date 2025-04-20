@@ -4,7 +4,7 @@ RUN apt-get update && apt-get upgrade -y && \
     apt-get install -y nginx openssl && \
     mkdir -p /etc/nginx/ssl && \
     openssl req -x509 -nodes -out /etc/nginx/ssl/inception.crt -keyout \
-    /etc/nginx/ssl/inception.key -subj "/C=MO/ST=RHAMNA/L=BENGRIR/O=1337/OU=1337/CN=sobouric.42.fr/UID=sobouric"
+    /etc/nginx/ssl/inception.key -subj "/C=MO/ST=RHAMNA/L=BENGRIR/O=1337/OU=1337/CN=login.42.fr/UID=login"
 
 COPY config/nginx.conf /etc/nginx/nginx.conf
 

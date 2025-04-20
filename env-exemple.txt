@@ -1,0 +1,15 @@
+MYSQL_DB=mdb
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_ROOT_PASSWORD=
+# WP SETUP
+DOMAIN_NAME=login.42.fr
+WP_ADMIN_NAME=login
+WP_ADMIN_PASS=
+WP_TITLE=user-website
+WP_ADMIN_EMAIL=login.login@gmail.com
+# WP NEW USER SETUP
+WP_USER_NAME=person
+WP_U_PASS=
+WP_U_ROLE=author
+WP_USR_EMAIL=person@gmail.com
