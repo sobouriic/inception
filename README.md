@@ -179,11 +179,7 @@ For additional challenges, consider implementing:
 
 ## Resources
 - [How Docker Works](https://www.freecodecamp.org/news/how-docker-containers-work/)
-  
-- [Docker Volumes]([https://docs.docker.com/](https://semaphore.io/blog/docker-volumes))
-  
-- [Docker Network]([https://docs.docker.com/compose/](https://medium.com/the-metricfire-blog/understanding-docker-networking-9f81244cf824))
-  
-- [How NGINX Works ]([https://nginx.org/en/docs/](https://www.solo.io/topics/nginx))
-  
-- [SSL]([https://wordpress.org/documentation/](https://medium.com/codenx/technology-security-22641732382f))
+- [Docker Volumes](https://semaphore.io/blog/docker-volumes)
+- [Docker Network](https://medium.com/the-metricfire-blog/understanding-docker-networking-9f81244cf824)
+- [How NGINX Works](https://www.solo.io/topics/nginx)
+- [SSL](https://medium.com/codenx/technology-security-22641732382f)
